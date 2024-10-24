@@ -11,8 +11,26 @@
 
 
 ![](https://komarev.com/ghpvc/?username=jjboy55&color=blue)
-<p align="left"> <a href="https://twitter.com/jerrydevs_" target="blank"><img src="https://img.shields.io/twitter/follow/jerrydevs_?logo=twitter&style=for-the-badge" alt="jerrydevs_" /></a> </p>
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jjboy55&show_icons=true&locale=en&theme=onedark" alt="jjboy55" /></p> -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeremiah-louis&show_icons=true&locale=en&layout=compact&theme=onedark" alt="jerry" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeremiah-louis&theme=onedark" alt="jjboy55" /></p>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<p align="left"> <a href="https://twitter.com/jerrydevs_" target="blank"><img src="https://img.shields.io/twitter/follow/jerrydevs_?logo=twitter&style=for-the-badge" alt="jerrydevs_" /></a> </p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeremiah-louis&show_icons=true&locale=en&layout=compact&theme=onedark" alt="jerry" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeremiah-louis&theme=onedark" alt="jjboy55"/></p> -->
+<table>
+  <tr>
+    <td>
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeremiah-louis&show_icons=true&locale=en&layout=compact&theme=onedark" alt="jerry" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremiah-louis&theme=onedark" alt="jjboy55" />
+    </td>
+  </tr>
+</table>
+<!-- <table>
+  <tr>
+    <td >
+      <img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote" />
+    </td>
+  </tr>
+</table> -->
+
+
+
