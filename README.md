@@ -13,7 +13,7 @@
 ![](https://komarev.com/ghpvc/?username=jjboy55&color=blue)
 
 <p align="left"> <a href="https://twitter.com/jerrydevs_" target="blank"><img src="https://img.shields.io/twitter/follow/jerrydevs_?logo=twitter&style=for-the-badge" alt="jerrydevs_" /></a> </p>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeremiah-louis&show_icons=true&locale=en&layout=compact&theme=onedark" alt="jerry" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeremiah-louis&theme=onedark" alt="jjboy55"/></p> -->
+
 <table>
   <tr>
     <td>
