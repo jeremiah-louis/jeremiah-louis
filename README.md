@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/jerrydevs_" target="blank"><img src="https://img.shields.io/twitter/follow/jerrydevs_?logo=twitter&style=for-the-badge" alt="jerrydevs_" /></a> </p>
 
-<table>
+<table> 
   <tr>
     <td>
       <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeremiah-louis&show_icons=true&locale=en&layout=compact&theme=onedark" alt="jerry" />
