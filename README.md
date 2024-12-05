@@ -23,7 +23,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremiah-louis&theme=onedark" alt="jjboy55" />
     </td>
   </tr>
-</table>
+</table> 
 <!-- <table>
   <tr>
     <td >
