@@ -4,7 +4,7 @@
 <h1 align="center">Here's a bit about me 😅</h1>   
 
 👨‍💻 Software Engineer.     
-  
+   
 ⚡️ Passionate about `Generative AI`, `Large language models` and `Artificial Intelligence`. 
 
 👯 I’m looking to collaborate on multiple projects.
