@@ -24,13 +24,3 @@
     </td>
   </tr>
 </table> 
-<!-- <table>
-  <tr>
-    <td >
-      <img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote" />
-    </td>
-  </tr>
-</table> -->
-
-
-
