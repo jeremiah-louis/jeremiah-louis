@@ -12,7 +12,7 @@
  
 ![](https://komarev.com/ghpvc/?username=jjboy55&color=blue)
 
-<p align="left"> <a href="https://x.com/ojie_jeremiah" target="blank"><img src="https://img.shields.io/twitter/follow/jerrydevs_?logo=twitter&style=for-the-badge" alt="jerrydevs_" /></a> </p>
+<p align="left"> <a href="https://x.com/ojie_jeremiah" target="blank"><img src="https://img.shields.io/twitter/follow/ojie_jeremiah?logo=twitter&style=for-the-badge" alt="ojie_jeremiah" /></a> </p>
 
 <table> 
   <tr>
