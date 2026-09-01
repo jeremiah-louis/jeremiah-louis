@@ -5,7 +5,7 @@
 
 👨‍💻 Software Engineer.
    
-⚡️ Passionate about `Generative AI`, `Large language models`, `Artificial Intelligence`, and `robotics`. 
+⚡️ Passionate about `Generative AI`, `Large language models`, `Artificial Intelligence`, and `Robotics`. 
  
 ![](https://komarev.com/ghpvc/?username=jjboy55&color=blue)
 
